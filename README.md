@@ -1,3 +1,3 @@
 # Algeom Dacallos
 Web Development
-Live site: https://github.com/algeom-dacallos/dacallos_algeom.git
+Live site: https://algeom-dacallos.github.io/dacallos_algeom/
